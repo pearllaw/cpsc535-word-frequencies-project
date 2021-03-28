@@ -3,5 +3,6 @@ Cumulative frequencies
 
 Group members:
 
-Ada Lovelace adalovelace@csu.fullerton.edu
-Charles Babbage charlesbab@csu.fullerton.edu
+Pearl Law pearl.law@csu.fullerton.edu
+
+Jennifer Wu chihyi1126@csu.fullerton.edu
