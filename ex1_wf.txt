@@ -1,0 +1,12 @@
+foot, 5
+feet, 12
+day, 3
+days, 8
+fear, 2
+scared, 1 
+long, 12
+large, 5
+big, 5
+was, 4
+is, 4
+are, 15
