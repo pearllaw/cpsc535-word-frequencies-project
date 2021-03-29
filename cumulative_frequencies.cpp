@@ -13,7 +13,6 @@ using namespace std;
 typedef pair<string, int> si_pair;
 typedef pair<string, string> str_pair;
 
-// 
 struct pair_equal: unary_function<str_pair, bool>
 {
     pair_equal(const string &idx): idx_(idx) {}
@@ -82,6 +81,14 @@ set<si_pair> cumulative_word_frequency(map<string, int> wf, set<str_pair> syn)
     return cf;
 }
 
+void display(set<si_pair> cf)
+{
+    for (auto const &pair : cf)
+    {
+        cout << "(" << pair.first << ", " << pair.second << ")" << endl;
+    }
+}
+
 int main(int argc, char** argv)
 {
     if (argc < 3)
@@ -135,6 +142,7 @@ int main(int argc, char** argv)
     infile2.close();
 
     // print list of cumulative frequencies
-    set<si_pair> cf = cumulative_word_frequency(wf, syn);
-    // for ()
+    display(cumulative_word_frequency(wf, syn));
+    
 }
+
