@@ -1,0 +1,6 @@
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore compiled files
+cumulative_frequencies

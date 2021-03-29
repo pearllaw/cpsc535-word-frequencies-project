@@ -1,7 +1,7 @@
 foot, feet
 day, days
 fear, scared
-long, big 
+long, big
 big, large
 is, are
 is, was
