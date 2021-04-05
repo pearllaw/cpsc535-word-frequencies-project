@@ -1,6 +1,10 @@
-herbivore, horseshorse, large mammalhorses, large mammal
+herbivore, horses
+horse, large mammal
+horses, large mammal
 large number of, huge
 tons of, large
-huge, largemystical, magical
+huge, large
+mystical, magical
 magical, unexplained
+magic, magical
 horse, large mammal
