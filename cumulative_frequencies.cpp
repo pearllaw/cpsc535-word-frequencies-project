@@ -7,7 +7,6 @@
 #include <map>
 #include <utility>
 #include <iterator>
-#include <
 
 using namespace std;
 
@@ -64,7 +63,7 @@ set<si_pair> cumulative_word_frequency(map<string, int> wf, set<str_pair> syn)
         set<string> words = combine_unique_strs(syn);
         common_words.push_back(words);
     }
-
+    
     // Create set of cumulative frequency pairs 
     set<si_pair> cf;
     for (set<string> &words : common_words)
@@ -141,7 +140,6 @@ int main(int argc, char** argv)
         syn.insert(make_pair(str1, str2));
     }
     infile2.close();
-
     // print list of cumulative frequencies
     display(cumulative_word_frequency(wf, syn));
     

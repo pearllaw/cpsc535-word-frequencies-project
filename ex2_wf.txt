@@ -1,8 +1,12 @@
-tons of, 2large of number of, 12mystical, 13
+tons of, 2
+large number of, 12
+mystical, 13
 magical, 28
 magic, 5
 unexplained, 11
 huge, 2
-large, 51horses, 25horse, 24
+large, 51
+horses, 25
+horse, 24
 large mammal, 24
 herbivore, 5
